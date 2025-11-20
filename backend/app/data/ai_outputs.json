@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "JP001",
+    "ai_prediction": "real",
+    "ai_confidence": 0.93,
+    "ai_reasoning": [
+      "technologiesimplement",
+      "bavaria/",
+      "background",
+      "engineeringminimum",
+      "energies"
+    ]
+  },
+  {
+    "id": "JP002",
+    "ai_prediction": "real",
+    "ai_confidence": 0.95,
+    "ai_reasoning": [
+      "monthly",
+      "experience",
+      "required",
+      "reimbursedexcellent",
+      "travel"
+    ]
+  },
+  {
+    "id": "JP003",
+    "ai_prediction": "real",
+    "ai_confidence": 0.99,
+    "ai_reasoning": [
+      "experience",
+      "cardsgabriel",
+      "teaching",
+      "monthly",
+      "provided"
+    ]
+  },
+  {
+    "id": "JP004",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.93,
+    "ai_reasoning": [
+      "non-conformances",
+      "documentationpresent",
+      "internal",
+      "alternative",
+      "direct"
+    ]
+  },
+  {
+    "id": "JP005",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.89,
+    "ai_reasoning": [
+      "warehouse",
+      "herndon",
+      "duration",
+      "knowledge",
+      "position"
+    ]
+  },
+  {
+    "id": "JP006",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "solutions",
+      "clarificationmaintain",
+      "productivityparticipate",
+      "provide",
+      "attentively"
+    ]
+  },
+  {
+    "id": "JP007",
+    "ai_prediction": "real",
+    "ai_confidence": 0.91,
+    "ai_reasoning": [
+      "analyzing",
+      "networking",
+      "documentary",
+      "distributed",
+      "data-sets"
+    ]
+  },
+  {
+    "id": "JP008",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.89,
+    "ai_reasoning": [
+      "complex",
+      "continued",
+      "software",
+      "address",
+      "develop"
+    ]
+  },
+  {
+    "id": "JP009",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.89,
+    "ai_reasoning": [
+      "reports",
+      "conceptual",
+      "functional",
+      "migration",
+      "members"
+    ]
+  },
+  {
+    "id": "JP010",
+    "ai_prediction": "real",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "holders",
+      "required",
+      "experience",
+      "living)housing",
+      "passport"
+    ]
+  },
+  {
+    "id": "JP011",
+    "ai_prediction": "real",
+    "ai_confidence": 0.86,
+    "ai_reasoning": [
+      "individually",
+      "material",
+      "background",
+      "qualifications:experience",
+      "customer"
+    ]
+  },
+  {
+    "id": "JP012",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.9,
+    "ai_reasoning": [
+      "monthly.generate",
+      "administrative",
+      "secretarial",
+      "chairman",
+      "databases"
+    ]
+  },
+  {
+    "id": "JP013",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "planning",
+      "observing",
+      "proficient",
+      "promotions",
+      "microsoft"
+    ]
+  },
+  {
+    "id": "JP014",
+    "ai_prediction": "real",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "success",
+      "supervision",
+      "additional",
+      "collaborate",
+      "incremental"
+    ]
+  },
+  {
+    "id": "JP015",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.96,
+    "ai_reasoning": [
+      "experience",
+      "responsible",
+      "specific",
+      "manufacturing.3",
+      "proposals"
+    ]
+  },
+  {
+    "id": "JP016",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.94,
+    "ai_reasoning": [
+      "incoming",
+      "problem",
+      "believe",
+      "someone",
+      "knowledge"
+    ]
+  },
+  {
+    "id": "JP017",
+    "ai_prediction": "real",
+    "ai_confidence": 0.9,
+    "ai_reasoning": [
+      "explaining",
+      "before",
+      "ever-changing",
+      "efficient",
+      "stickler"
+    ]
+  },
+  {
+    "id": "JP018",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "solutions",
+      "business",
+      "responsible",
+      "motivated",
+      "discipline.\u2022"
+    ]
+  },
+  {
+    "id": "JP019",
+    "ai_prediction": "real",
+    "ai_confidence": 0.88,
+    "ai_reasoning": [
+      "ventures",
+      "respectively",
+      "ethical",
+      "onceenergetic",
+      "revenue"
+    ]
+  },
+  {
+    "id": "JP020",
+    "ai_prediction": "real",
+    "ai_confidence": 0.95,
+    "ai_reasoning": [
+      "university",
+      "passport",
+      "living)housing",
+      "travel",
+      "monthly"
+    ]
+  },
+  {
+    "id": "JP021",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.93,
+    "ai_reasoning": [
+      "disposal",
+      "recruiters",
+      "appropriate",
+      "environmental",
+      "champion"
+    ]
+  },
+  {
+    "id": "JP022",
+    "ai_prediction": "real",
+    "ai_confidence": 0.93,
+    "ai_reasoning": [
+      "business",
+      "knowledge",
+      "pressure",
+      "business",
+      "software"
+    ]
+  },
+  {
+    "id": "JP023",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "quality",
+      "similar",
+      "metrics",
+      "operationsmentor",
+      "quality"
+    ]
+  },
+  {
+    "id": "JP024",
+    "ai_prediction": "real",
+    "ai_confidence": 0.96,
+    "ai_reasoning": [
+      "maintaining",
+      "strongly",
+      "perspective",
+      "mongodb",
+      "infrastructure"
+    ]
+  },
+  {
+    "id": "JP025",
+    "ai_prediction": "real",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "grooming",
+      "assistant",
+      "values-train",
+      "difference",
+      "medical"
+    ]
+  },
+  {
+    "id": "JP026",
+    "ai_prediction": "real",
+    "ai_confidence": 0.96,
+    "ai_reasoning": [
+      "information",
+      "account",
+      "hardworking",
+      "entry/customer",
+      "supervision"
+    ]
+  },
+  {
+    "id": "JP027",
+    "ai_prediction": "real",
+    "ai_confidence": 0.89,
+    "ai_reasoning": [
+      "competitorspromptly",
+      "identify",
+      "year.the",
+      "industry",
+      "growing.raised"
+    ]
+  },
+  {
+    "id": "JP028",
+    "ai_prediction": "real",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "monospace",
+      "foremost",
+      "simple",
+      "user-centered",
+      "coffeescript"
+    ]
+  },
+  {
+    "id": "JP029",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.99,
+    "ai_reasoning": [
+      "charge",
+      "benefits",
+      "preferred",
+      "available",
+      "business"
+    ]
+  },
+  {
+    "id": "JP030",
+    "ai_prediction": "real",
+    "ai_confidence": 0.63,
+    "ai_reasoning": [
+      "contacted",
+      "detailsability",
+      "attention-to-detail",
+      "prospect",
+      "calling"
+    ]
+  },
+  {
+    "id": "JP031",
+    "ai_prediction": "real",
+    "ai_confidence": 0.95,
+    "ai_reasoning": [
+      "folding",
+      "criminal",
+      "minimum",
+      "production",
+      "etc)operating"
+    ]
+  },
+  {
+    "id": "JP032",
+    "ai_prediction": "real",
+    "ai_confidence": 0.86,
+    "ai_reasoning": [
+      "communication",
+      "administration",
+      "subordinates",
+      "aspects",
+      "coaching"
+    ]
+  },
+  {
+    "id": "JP033",
+    "ai_prediction": "real",
+    "ai_confidence": 0.86,
+    "ai_reasoning": [
+      "editing",
+      "companies",
+      "categoryproducing",
+      "postsediting",
+      "managers"
+    ]
+  },
+  {
+    "id": "JP034",
+    "ai_prediction": "real",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "technology",
+      "aspects",
+      "intelligence",
+      "ventures",
+      "businesses"
+    ]
+  },
+  {
+    "id": "JP035",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "advantageexcellent",
+      "responsible",
+      "selection",
+      "reports",
+      "assistingad-hoc"
+    ]
+  },
+  {
+    "id": "JP036",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.95,
+    "ai_reasoning": [
+      "activities",
+      "environment.self-starter",
+      "certification",
+      "engineering",
+      "informed"
+    ]
+  },
+  {
+    "id": "JP037",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.86,
+    "ai_reasoning": [
+      "positive",
+      "identify",
+      "process",
+      "world's",
+      "recovery"
+    ]
+  },
+  {
+    "id": "JP038",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.94,
+    "ai_reasoning": [
+      "skills.ability",
+      "aspects",
+      "requires",
+      "period",
+      "environment.high"
+    ]
+  },
+  {
+    "id": "JP039",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.86,
+    "ai_reasoning": [
+      "outstanding",
+      "seeking",
+      "quality",
+      "headset",
+      "clients"
+    ]
+  },
+  {
+    "id": "JP040",
+    "ai_prediction": "real",
+    "ai_confidence": 0.86,
+    "ai_reasoning": [
+      "looking",
+      "auckland",
+      "cucumber",
+      "helpful",
+      "example.more"
+    ]
+  },
+  {
+    "id": "JP041",
+    "ai_prediction": "real",
+    "ai_confidence": 0.94,
+    "ai_reasoning": [
+      "reimbursedexcellent",
+      "teaching",
+      "experience",
+      "student",
+      "necessarycanada/us"
+    ]
+  },
+  {
+    "id": "JP042",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.86,
+    "ai_reasoning": [
+      "however",
+      "ability",
+      "preferred",
+      "skills",
+      "internet"
+    ]
+  },
+  {
+    "id": "JP043",
+    "ai_prediction": "real",
+    "ai_confidence": 0.94,
+    "ai_reasoning": [
+      "procedures",
+      "responsibility",
+      "applied",
+      "production",
+      "customers"
+    ]
+  },
+  {
+    "id": "JP044",
+    "ai_prediction": "real",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "reconciliation",
+      "economics",
+      "outboundliaising",
+      "operational",
+      "company"
+    ]
+  },
+  {
+    "id": "JP045",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.93,
+    "ai_reasoning": [
+      "experience",
+      "dependable",
+      "administrative",
+      "responsibilitiesperform",
+      "assigned"
+    ]
+  },
+  {
+    "id": "JP046",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "equally",
+      "seekers",
+      "staffing",
+      "service",
+      "internet"
+    ]
+  },
+  {
+    "id": "JP047",
+    "ai_prediction": "real",
+    "ai_confidence": 0.9,
+    "ai_reasoning": [
+      "availability",
+      "multiple",
+      "backfill",
+      "requiredpreferred",
+      "supervisor"
+    ]
+  },
+  {
+    "id": "JP048",
+    "ai_prediction": "real",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "trained",
+      "required",
+      "develop",
+      "critical",
+      "supervisionability"
+    ]
+  },
+  {
+    "id": "JP049",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "format",
+      "skills",
+      "customer",
+      "account",
+      "purging"
+    ]
+  },
+  {
+    "id": "JP050",
+    "ai_prediction": "real",
+    "ai_confidence": 0.91,
+    "ai_reasoning": [
+      "illustratorexpert",
+      "necessary",
+      "prototypes",
+      "mockups",
+      "required"
+    ]
+  },
+  {
+    "id": "JP051",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.99,
+    "ai_reasoning": [
+      "project",
+      "promote",
+      "deliverable.*",
+      "execution",
+      "interact"
+    ]
+  },
+  {
+    "id": "JP052",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.97,
+    "ai_reasoning": [
+      "minimum",
+      "contact",
+      "administrator",
+      "response",
+      "service"
+    ]
+  },
+  {
+    "id": "JP053",
+    "ai_prediction": "real",
+    "ai_confidence": 0.91,
+    "ai_reasoning": [
+      "accordance",
+      "customer",
+      "failure",
+      "working",
+      "driven"
+    ]
+  },
+  {
+    "id": "JP054",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "surrounding",
+      "springs",
+      "activities",
+      "consultation",
+      "regional"
+    ]
+  },
+  {
+    "id": "JP055",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "aremaintained",
+      "techniques",
+      "excellent",
+      "throughout",
+      "maximum"
+    ]
+  },
+  {
+    "id": "JP056",
+    "ai_prediction": "real",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "independently",
+      "highest",
+      "possible",
+      "engineeringminimum",
+      "multiple"
+    ]
+  },
+  {
+    "id": "JP057",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "selection",
+      "assignment",
+      "recovery",
+      "information",
+      "deadlines"
+    ]
+  },
+  {
+    "id": "JP058",
+    "ai_prediction": "real",
+    "ai_confidence": 0.99,
+    "ai_reasoning": [
+      "forklift",
+      "knowledge",
+      "equivalent",
+      "reporting",
+      "tasksability"
+    ]
+  },
+  {
+    "id": "JP059",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "experienced",
+      "essential",
+      "technical",
+      "apps.proficiency",
+      "product"
+    ]
+  },
+  {
+    "id": "JP060",
+    "ai_prediction": "real",
+    "ai_confidence": 0.9,
+    "ai_reasoning": [
+      "benefits",
+      "related",
+      "delivering",
+      "professional",
+      "experience.at"
+    ]
+  },
+  {
+    "id": "JP061",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.99,
+    "ai_reasoning": [
+      "execute",
+      "goals.*",
+      "detailed",
+      "skills",
+      "experience"
+    ]
+  },
+  {
+    "id": "JP062",
+    "ai_prediction": "real",
+    "ai_confidence": 0.99,
+    "ai_reasoning": [
+      "representatives",
+      "management",
+      "$45k-$67k",
+      "averaged",
+      "managers.positions"
+    ]
+  },
+  {
+    "id": "JP063",
+    "ai_prediction": "real",
+    "ai_confidence": 0.96,
+    "ai_reasoning": [
+      "government",
+      "notesideal",
+      "manufacturer",
+      "queries-sending",
+      "business"
+    ]
+  },
+  {
+    "id": "JP064",
+    "ai_prediction": "real",
+    "ai_confidence": 0.93,
+    "ai_reasoning": [
+      "qualifications:ability",
+      "direction",
+      "projects",
+      "customers",
+      "diploma"
+    ]
+  },
+  {
+    "id": "JP065",
+    "ai_prediction": "real",
+    "ai_confidence": 0.96,
+    "ai_reasoning": [
+      "management",
+      "limited",
+      "routine",
+      "components",
+      "components"
+    ]
+  },
+  {
+    "id": "JP066",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.96,
+    "ai_reasoning": [
+      "executive",
+      "address",
+      "controls",
+      "highest",
+      "standards:assist"
+    ]
+  },
+  {
+    "id": "JP067",
+    "ai_prediction": "real",
+    "ai_confidence": 0.95,
+    "ai_reasoning": [
+      "reimbursedexcellent",
+      "monthly",
+      "required",
+      "required",
+      "-)love"
+    ]
+  },
+  {
+    "id": "JP068",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "environment",
+      "demonstrations",
+      "assigned",
+      "consumers\u2019",
+      "in-store"
+    ]
+  },
+  {
+    "id": "JP069",
+    "ai_prediction": "real",
+    "ai_confidence": 0.95,
+    "ai_reasoning": [
+      "directors",
+      "looking",
+      "implementationshop-owner",
+      "e-commerce",
+      "community"
+    ]
+  },
+  {
+    "id": "JP070",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.95,
+    "ai_reasoning": [
+      "fatigue",
+      "english",
+      "compensate",
+      "calculations.\u2022",
+      "partner"
+    ]
+  },
+  {
+    "id": "JP071",
+    "ai_prediction": "real",
+    "ai_confidence": 0.89,
+    "ai_reasoning": [
+      "a:degree",
+      "descriptioncandidate",
+      "services",
+      "process",
+      "experience:two"
+    ]
+  },
+  {
+    "id": "JP072",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "position",
+      "applications",
+      "agreements",
+      "documents",
+      "contract"
+    ]
+  },
+  {
+    "id": "JP073",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.91,
+    "ai_reasoning": [
+      "databases",
+      "multi-taskability",
+      "accurate",
+      "lasting",
+      "scanning"
+    ]
+  },
+  {
+    "id": "JP074",
+    "ai_prediction": "real",
+    "ai_confidence": 0.94,
+    "ai_reasoning": [
+      "\u00a330,000",
+      "management",
+      "service",
+      "branch",
+      "automotive"
+    ]
+  },
+  {
+    "id": "JP075",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "science",
+      "reporting",
+      "management",
+      "investigations.manages",
+      "plan.ensures"
+    ]
+  },
+  {
+    "id": "JP076",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.86,
+    "ai_reasoning": [
+      "operating",
+      "increasing",
+      "complexity",
+      "technician",
+      "technician"
+    ]
+  },
+  {
+    "id": "JP077",
+    "ai_prediction": "real",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "excellent",
+      "getting",
+      "themselves",
+      "ability",
+      "repetitiveness"
+    ]
+  },
+  {
+    "id": "JP078",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "mechanical",
+      "management",
+      "supervision.\u2022",
+      "duties",
+      "equipment"
+    ]
+  },
+  {
+    "id": "JP079",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.88,
+    "ai_reasoning": [
+      "monitoring",
+      "maintenance",
+      "non-compliance",
+      "recommends",
+      "implementing"
+    ]
+  },
+  {
+    "id": "JP080",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.9,
+    "ai_reasoning": [
+      "applications",
+      "fittings.install",
+      "underground",
+      "weights",
+      "products"
+    ]
+  },
+  {
+    "id": "JP081",
+    "ai_prediction": "real",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "necessarycanada/us",
+      "experience",
+      "preferred",
+      "required",
+      "student"
+    ]
+  },
+  {
+    "id": "JP082",
+    "ai_prediction": "real",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "passport",
+      "loans/credit",
+      "asia$1500",
+      "required",
+      "attitude"
+    ]
+  },
+  {
+    "id": "JP083",
+    "ai_prediction": "real",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "working",
+      "executing",
+      "arrange",
+      "meetings",
+      "marketinvoice\u2019s"
+    ]
+  },
+  {
+    "id": "JP084",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.88,
+    "ai_reasoning": [
+      "analyzing",
+      "account",
+      "clerical",
+      "standard",
+      "scanner"
+    ]
+  },
+  {
+    "id": "JP085",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.88,
+    "ai_reasoning": [
+      "constant",
+      "business",
+      "incomethe",
+      "opportunity",
+      "wide-ranging"
+    ]
+  },
+  {
+    "id": "JP086",
+    "ai_prediction": "real",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "olds.perfect",
+      "computer",
+      "motivated",
+      "availability",
+      "involve:-filing"
+    ]
+  },
+  {
+    "id": "JP087",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.88,
+    "ai_reasoning": [
+      "errors",
+      "questions",
+      "summaryresponsible",
+      "account",
+      "customers"
+    ]
+  },
+  {
+    "id": "JP088",
+    "ai_prediction": "real",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "provided",
+      "asia$1,500+",
+      "preferred",
+      "living)housing",
+      "reimbursedexcellent"
+    ]
+  },
+  {
+    "id": "JP089",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.94,
+    "ai_reasoning": [
+      "business",
+      "finding",
+      "deserve",
+      "because",
+      "potentialhighly"
+    ]
+  },
+  {
+    "id": "JP090",
+    "ai_prediction": "real",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "origination",
+      "originator",
+      "originator",
+      "expected",
+      "technology"
+    ]
+  },
+  {
+    "id": "JP091",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.64,
+    "ai_reasoning": [
+      "private/furnished)airfare",
+      "holders",
+      "asia$1,500+",
+      "provided",
+      "university"
+    ]
+  },
+  {
+    "id": "JP092",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.96,
+    "ai_reasoning": [
+      "client\u2019s",
+      "day-to-day",
+      "consistent",
+      "technology",
+      "centres.-"
+    ]
+  },
+  {
+    "id": "JP093",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.91,
+    "ai_reasoning": [
+      "financing",
+      "contract",
+      "experience",
+      "hazelcrest",
+      "expprior"
+    ]
+  },
+  {
+    "id": "JP094",
+    "ai_prediction": "real",
+    "ai_confidence": 0.94,
+    "ai_reasoning": [
+      "program",
+      "change",
+      "entrepreneurship",
+      "individuals",
+      "exploring"
+    ]
+  },
+  {
+    "id": "JP095",
+    "ai_prediction": "real",
+    "ai_confidence": 0.91,
+    "ai_reasoning": [
+      "objectives",
+      "position",
+      "potential",
+      "experience",
+      "spanish"
+    ]
+  },
+  {
+    "id": "JP096",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.96,
+    "ai_reasoning": [
+      "temporary",
+      "opportunity",
+      "remotely",
+      "staffing",
+      "seekers"
+    ]
+  },
+  {
+    "id": "JP097",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.9,
+    "ai_reasoning": [
+      "jobholder",
+      "company\u2019s",
+      "initiatives.as",
+      "recognised",
+      "support"
+    ]
+  },
+  {
+    "id": "JP098",
+    "ai_prediction": "real",
+    "ai_confidence": 0.96,
+    "ai_reasoning": [
+      "operations",
+      "handing",
+      "information",
+      "empathetic",
+      "experience"
+    ]
+  },
+  {
+    "id": "JP099",
+    "ai_prediction": "real",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "employees",
+      "etc.cross",
+      "employees",
+      "business",
+      "member\u2019s"
+    ]
+  },
+  {
+    "id": "JP100",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.9,
+    "ai_reasoning": [
+      "skills.position",
+      "skills*team",
+      "skillsstarting",
+      "dependable",
+      "starter*friendly"
+    ]
+  },
+  {
+    "id": "JP101",
+    "ai_prediction": "real",
+    "ai_confidence": 0.89,
+    "ai_reasoning": [
+      "manchester",
+      "networkone",
+      "projects",
+      "pythonknowledge",
+      "million"
+    ]
+  },
+  {
+    "id": "JP102",
+    "ai_prediction": "real",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "excellent",
+      "clients",
+      "ability",
+      "experienceunderstanding",
+      "issuesfriendliness"
+    ]
+  },
+  {
+    "id": "JP103",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "increased",
+      "christmas",
+      "program",
+      "breaker",
+      "potentially"
+    ]
+  },
+  {
+    "id": "JP104",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "company\u2019s",
+      "increasingly",
+      "looking",
+      "solving",
+      "applications"
+    ]
+  },
+  {
+    "id": "JP105",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.91,
+    "ai_reasoning": [
+      "answering",
+      "responsible",
+      "benchmarking",
+      "company",
+      "business"
+    ]
+  },
+  {
+    "id": "JP106",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.9,
+    "ai_reasoning": [
+      "written",
+      "overviewaker",
+      "workscopes",
+      "production",
+      "manager.\u2022"
+    ]
+  },
+  {
+    "id": "JP107",
+    "ai_prediction": "real",
+    "ai_confidence": 0.91,
+    "ai_reasoning": [
+      "without",
+      "environmentconsistently",
+      "multiple",
+      "inserting",
+      "employee"
+    ]
+  },
+  {
+    "id": "JP108",
+    "ai_prediction": "real",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "customer",
+      "know.if",
+      "leavers.this",
+      "looking",
+      "opportunity"
+    ]
+  },
+  {
+    "id": "JP109",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.91,
+    "ai_reasoning": [
+      "manager/project",
+      "adequate",
+      "manual*",
+      "diagram",
+      "execution"
+    ]
+  },
+  {
+    "id": "JP110",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.88,
+    "ai_reasoning": [
+      "environments",
+      "opinions",
+      "against",
+      "facilities",
+      "development"
+    ]
+  },
+  {
+    "id": "JP111",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "required",
+      "strategies",
+      "forecasting",
+      "results",
+      "impressions"
+    ]
+  },
+  {
+    "id": "JP112",
+    "ai_prediction": "real",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "adwords",
+      "looking",
+      "identify",
+      "traditional",
+      "digital"
+    ]
+  },
+  {
+    "id": "JP113",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.95,
+    "ai_reasoning": [
+      "$1000.00-$2500.00",
+      "internet",
+      "applicants",
+      "experience",
+      "directions"
+    ]
+  },
+  {
+    "id": "JP114",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.85,
+    "ai_reasoning": [
+      "creativity",
+      "concerning",
+      "assurance",
+      "management",
+      "encouraged"
+    ]
+  },
+  {
+    "id": "JP115",
+    "ai_prediction": "real",
+    "ai_confidence": 0.91,
+    "ai_reasoning": [
+      "tackerlaborertool",
+      "houston",
+      "explore",
+      "opportunity",
+      "positions"
+    ]
+  },
+  {
+    "id": "JP116",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.86,
+    "ai_reasoning": [
+      "understand",
+      "current",
+      "environmentassist",
+      "decision-making",
+      "proficiency"
+    ]
+  },
+  {
+    "id": "JP117",
+    "ai_prediction": "real",
+    "ai_confidence": 0.9,
+    "ai_reasoning": [
+      "designed",
+      "directly",
+      "landlord",
+      "administrative",
+      "policy"
+    ]
+  },
+  {
+    "id": "JP118",
+    "ai_prediction": "real",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "portfolio",
+      "networking",
+      "generation",
+      "business",
+      "business"
+    ]
+  },
+  {
+    "id": "JP119",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.97,
+    "ai_reasoning": [
+      "applications",
+      "interaction",
+      "perform",
+      "per-determined",
+      "agreements"
+    ]
+  },
+  {
+    "id": "JP120",
+    "ai_prediction": "real",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "technical",
+      "incidents",
+      "visible",
+      "description:provides",
+      "problem"
+    ]
+  },
+  {
+    "id": "JP121",
+    "ai_prediction": "real",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "features",
+      "marketinvoice",
+      "mailchimp",
+      "process",
+      "company"
+    ]
+  },
+  {
+    "id": "JP122",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "gilbarco",
+      "equipment.pressurized",
+      "fittings.install",
+      "applications",
+      "testing.must"
+    ]
+  },
+  {
+    "id": "JP123",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.93,
+    "ai_reasoning": [
+      "required",
+      "experience",
+      "responsible",
+      "machinery",
+      "buildings"
+    ]
+  },
+  {
+    "id": "JP124",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.95,
+    "ai_reasoning": [
+      "relevant",
+      "colleagues.\u2022",
+      "competitive",
+      "solutions'",
+      "individuals"
+    ]
+  },
+  {
+    "id": "JP125",
+    "ai_prediction": "real",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "experience",
+      "living)housing",
+      "loans/credit",
+      "preferred",
+      "necessarycanada/us"
+    ]
+  },
+  {
+    "id": "JP126",
+    "ai_prediction": "real",
+    "ai_confidence": 0.95,
+    "ai_reasoning": [
+      "experience",
+      "documentation",
+      "customers",
+      "spreadsheets",
+      "consistently"
+    ]
+  },
+  {
+    "id": "JP127",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.97,
+    "ai_reasoning": [
+      "entry/excel",
+      "accuracy!candidates",
+      "seeking",
+      "midnight",
+      "experience"
+    ]
+  },
+  {
+    "id": "JP128",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "friendly",
+      "continue",
+      "customer",
+      "skills/requirementssome",
+      "looking"
+    ]
+  },
+  {
+    "id": "JP129",
+    "ai_prediction": "real",
+    "ai_confidence": 0.93,
+    "ai_reasoning": [
+      "easygoing",
+      "interests?then",
+      "holidays",
+      "decorating",
+      "apartment"
+    ]
+  },
+  {
+    "id": "JP130",
+    "ai_prediction": "real",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "pullscreate",
+      "recordability",
+      "environment",
+      "integral",
+      "flexibility"
+    ]
+  },
+  {
+    "id": "JP131",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.93,
+    "ai_reasoning": [
+      "accounts",
+      "microsoft",
+      "business",
+      "accounting",
+      "visitors"
+    ]
+  },
+  {
+    "id": "JP132",
+    "ai_prediction": "real",
+    "ai_confidence": 0.96,
+    "ai_reasoning": [
+      "marketinvoice",
+      "classes",
+      "will:have",
+      "offered",
+      "experience"
+    ]
+  },
+  {
+    "id": "JP133",
+    "ai_prediction": "real",
+    "ai_confidence": 0.95,
+    "ai_reasoning": [
+      "fast-paced",
+      "variety",
+      "digital",
+      "writers",
+      "mediaunderstanding"
+    ]
+  },
+  {
+    "id": "JP134",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.99,
+    "ai_reasoning": [
+      "sharepoint)post",
+      "background",
+      "management",
+      "approximately",
+      "qualifications"
+    ]
+  },
+  {
+    "id": "JP135",
+    "ai_prediction": "real",
+    "ai_confidence": 0.86,
+    "ai_reasoning": [
+      "inspections",
+      "writing",
+      "schaumburg",
+      "ability",
+      "provide"
+    ]
+  },
+  {
+    "id": "JP136",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.89,
+    "ai_reasoning": [
+      "development",
+      "allocated",
+      "estimates",
+      "provider",
+      "environment"
+    ]
+  },
+  {
+    "id": "JP137",
+    "ai_prediction": "real",
+    "ai_confidence": 0.97,
+    "ai_reasoning": [
+      "twitter",
+      "javascript",
+      "accessing",
+      "javascript",
+      "databases"
+    ]
+  },
+  {
+    "id": "JP138",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "tosuccinctly",
+      "experience",
+      "quality",
+      "service",
+      "articulate"
+    ]
+  },
+  {
+    "id": "JP139",
+    "ai_prediction": "real",
+    "ai_confidence": 0.93,
+    "ai_reasoning": [
+      "website",
+      "familiar",
+      "1stthere",
+      "website",
+      "responsibilities:the"
+    ]
+  },
+  {
+    "id": "JP140",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.88,
+    "ai_reasoning": [
+      "company",
+      "boutiques",
+      "skills",
+      "skills",
+      "skills"
+    ]
+  },
+  {
+    "id": "JP141",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.99,
+    "ai_reasoning": [
+      "predictive",
+      "product",
+      "practical",
+      "experience",
+      "management"
+    ]
+  },
+  {
+    "id": "JP142",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.96,
+    "ai_reasoning": [
+      "advantageouscomputer",
+      "responsible",
+      "communication",
+      "numeracy",
+      "organisational"
+    ]
+  },
+  {
+    "id": "JP143",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.97,
+    "ai_reasoning": [
+      "company.customer",
+      "knowledge",
+      "contract",
+      "attention",
+      "manager"
+    ]
+  },
+  {
+    "id": "JP144",
+    "ai_prediction": "real",
+    "ai_confidence": 0.99,
+    "ai_reasoning": [
+      "concise",
+      "position",
+      "thoroughly\u25cb",
+      "applicable",
+      "contacts"
+    ]
+  },
+  {
+    "id": "JP145",
+    "ai_prediction": "real",
+    "ai_confidence": 0.94,
+    "ai_reasoning": [
+      "deliverables",
+      "identify",
+      "expectations.strong",
+      "reports",
+      "experience"
+    ]
+  },
+  {
+    "id": "JP146",
+    "ai_prediction": "real",
+    "ai_confidence": 0.93,
+    "ai_reasoning": [
+      "government",
+      "company",
+      "available",
+      "calls-creating",
+      "apprenticeship"
+    ]
+  },
+  {
+    "id": "JP147",
+    "ai_prediction": "real",
+    "ai_confidence": 0.91,
+    "ai_reasoning": [
+      "qualifications:previous",
+      "individually",
+      "confidential",
+      "documentsensure",
+      "minimizing"
+    ]
+  },
+  {
+    "id": "JP148",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.91,
+    "ai_reasoning": [
+      "compliance",
+      "temperature",
+      "clarification",
+      "commitment",
+      "seeking"
+    ]
+  },
+  {
+    "id": "JP149",
+    "ai_prediction": "real",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "necessarycanada/us",
+      "travel",
+      "living)housing",
+      "monthly",
+      "provided"
+    ]
+  },
+  {
+    "id": "JP150",
+    "ai_prediction": "real",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "asia$1,500+",
+      "contract",
+      "provided",
+      "monthly",
+      "reimbursedexcellent"
+    ]
+  },
+  {
+    "id": "JP151",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "arrangementsarrange",
+      "assistance",
+      "improvements",
+      "providing",
+      "meetings"
+    ]
+  },
+  {
+    "id": "JP152",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.97,
+    "ai_reasoning": [
+      "diploma",
+      "position",
+      "members",
+      "comfortable",
+      "working"
+    ]
+  },
+  {
+    "id": "JP153",
+    "ai_prediction": "real",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "high-dimensional",
+      "various",
+      "research",
+      "algorithms",
+      "implementation"
+    ]
+  },
+  {
+    "id": "JP154",
+    "ai_prediction": "real",
+    "ai_confidence": 0.88,
+    "ai_reasoning": [
+      "experience",
+      "asia$1,500+",
+      "holders",
+      "preferred",
+      "provided"
+    ]
+  },
+  {
+    "id": "JP155",
+    "ai_prediction": "real",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "packages",
+      "qualifications:copy",
+      "satisfying",
+      "charges",
+      "required"
+    ]
+  },
+  {
+    "id": "JP156",
+    "ai_prediction": "real",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "customer",
+      "attitude.if",
+      "friendly",
+      "stationary",
+      "positive"
+    ]
+  },
+  {
+    "id": "JP157",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.94,
+    "ai_reasoning": [
+      "integrity",
+      "supportive",
+      "platformsbs",
+      "day-to-day",
+      "familiarity"
+    ]
+  },
+  {
+    "id": "JP158",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "challenges",
+      "disciplinenebosh",
+      "excellent",
+      "legislationgood",
+      "trained"
+    ]
+  },
+  {
+    "id": "JP159",
+    "ai_prediction": "real",
+    "ai_confidence": 0.95,
+    "ai_reasoning": [
+      "technologies",
+      "experience",
+      "reports",
+      "networking",
+      "internal"
+    ]
+  },
+  {
+    "id": "JP160",
+    "ai_prediction": "real",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "asia$1,500+",
+      "reimbursedexcellent",
+      "contract",
+      "preferred",
+      "teaching"
+    ]
+  },
+  {
+    "id": "JP161",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.96,
+    "ai_reasoning": [
+      "independent",
+      "prioritize",
+      "property",
+      "looking",
+      "demonstrate"
+    ]
+  },
+  {
+    "id": "JP162",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.9,
+    "ai_reasoning": [
+      "assembly",
+      "looking",
+      "brought",
+      "systems",
+      "production"
+    ]
+  },
+  {
+    "id": "JP163",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.89,
+    "ai_reasoning": [
+      "requirements",
+      "product",
+      "director",
+      "seeking",
+      "development"
+    ]
+  },
+  {
+    "id": "JP164",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "degreewill",
+      "operating",
+      "programs",
+      "strongly",
+      "outcomes"
+    ]
+  },
+  {
+    "id": "JP165",
+    "ai_prediction": "real",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "communicate",
+      "development",
+      "design",
+      "spring)service-oriented",
+      "websphere"
+    ]
+  },
+  {
+    "id": "JP166",
+    "ai_prediction": "real",
+    "ai_confidence": 0.88,
+    "ai_reasoning": [
+      "mitigate",
+      "managing",
+      "riskiness",
+      "experience",
+      "pricing"
+    ]
+  },
+  {
+    "id": "JP167",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.92,
+    "ai_reasoning": [
+      "designing",
+      "strategic",
+      "including",
+      "multiple",
+      "stakeholders"
+    ]
+  },
+  {
+    "id": "JP168",
+    "ai_prediction": "real",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "objectives.management",
+      "site.your",
+      "his/her",
+      "vacancy",
+      "research"
+    ]
+  },
+  {
+    "id": "JP169",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.88,
+    "ai_reasoning": [
+      "ranging",
+      "equally",
+      "organizations",
+      "internet",
+      "internet"
+    ]
+  },
+  {
+    "id": "JP170",
+    "ai_prediction": "real",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "projects",
+      "capability",
+      "backlog",
+      "internal",
+      "management"
+    ]
+  },
+  {
+    "id": "JP171",
+    "ai_prediction": "real",
+    "ai_confidence": 0.91,
+    "ai_reasoning": [
+      "company",
+      "designing",
+      "samurai",
+      "developing",
+      "servicesexcellent"
+    ]
+  },
+  {
+    "id": "JP172",
+    "ai_prediction": "real",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "opportunities",
+      "design",
+      "topics",
+      "youtube",
+      "earning"
+    ]
+  },
+  {
+    "id": "JP173",
+    "ai_prediction": "real",
+    "ai_confidence": 0.96,
+    "ai_reasoning": [
+      "forward",
+      "application.in2media",
+      "job\"-button",
+      "position",
+      "developer"
+    ]
+  },
+  {
+    "id": "JP174",
+    "ai_prediction": "real",
+    "ai_confidence": 0.91,
+    "ai_reasoning": [
+      "documentation",
+      "volume",
+      "cleaning",
+      "vehicles.must",
+      "violations"
+    ]
+  },
+  {
+    "id": "JP175",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.89,
+    "ai_reasoning": [
+      "industryour",
+      "services",
+      "preparation",
+      "capabilities",
+      "strengthen"
+    ]
+  },
+  {
+    "id": "JP176",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "computer",
+      "address",
+      "seekers",
+      "temporary",
+      "workers"
+    ]
+  },
+  {
+    "id": "JP177",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.9,
+    "ai_reasoning": [
+      "designersevent",
+      "regardsashwini",
+      "expertbeauticianetc.the",
+      "chefstewardchief",
+      "monthly"
+    ]
+  },
+  {
+    "id": "JP178",
+    "ai_prediction": "real",
+    "ai_confidence": 0.93,
+    "ai_reasoning": [
+      "russian/english",
+      "certificate",
+      "seeking",
+      "responsible",
+      "bilingual"
+    ]
+  },
+  {
+    "id": "JP179",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.89,
+    "ai_reasoning": [
+      "material",
+      "inspections",
+      "meeting",
+      "perform",
+      "knowledge"
+    ]
+  },
+  {
+    "id": "JP180",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.93,
+    "ai_reasoning": [
+      "internet",
+      "staffing",
+      "internet",
+      "serving",
+      "representative"
+    ]
+  },
+  {
+    "id": "JP181",
+    "ai_prediction": "real",
+    "ai_confidence": 0.93,
+    "ai_reasoning": [
+      "activities",
+      "studies",
+      "application",
+      "requisite",
+      "testing"
+    ]
+  },
+  {
+    "id": "JP182",
+    "ai_prediction": "real",
+    "ai_confidence": 0.89,
+    "ai_reasoning": [
+      "student",
+      "necessarypositive",
+      "cardsgabriel",
+      "reimbursedexcellent",
+      "living)housing"
+    ]
+  },
+  {
+    "id": "JP183",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.91,
+    "ai_reasoning": [
+      "friendly",
+      "systemsneeds",
+      "drawings",
+      "information",
+      "corporate"
+    ]
+  },
+  {
+    "id": "JP184",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.93,
+    "ai_reasoning": [
+      "personal",
+      "efficient",
+      "duties",
+      "looking",
+      "engineering"
+    ]
+  },
+  {
+    "id": "JP185",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.96,
+    "ai_reasoning": [
+      "position",
+      "legislative",
+      "individuals",
+      "personal",
+      "industry"
+    ]
+  },
+  {
+    "id": "JP186",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.87,
+    "ai_reasoning": [
+      "technology",
+      "technology",
+      "leading",
+      "compensation",
+      "solutionsand"
+    ]
+  },
+  {
+    "id": "JP187",
+    "ai_prediction": "real",
+    "ai_confidence": 0.9,
+    "ai_reasoning": [
+      "additional",
+      "website",
+      "knowledge",
+      "network",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "JP188",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.97,
+    "ai_reasoning": [
+      "standing",
+      "stooping",
+      "selling",
+      "kneeling",
+      "abilityto"
+    ]
+  },
+  {
+    "id": "JP189",
+    "ai_prediction": "real",
+    "ai_confidence": 0.89,
+    "ai_reasoning": [
+      "product",
+      "payment",
+      "representative",
+      "production-measured",
+      "growing"
+    ]
+  },
+  {
+    "id": "JP190",
+    "ai_prediction": "real",
+    "ai_confidence": 0.9,
+    "ai_reasoning": [
+      "collaborating",
+      "developing",
+      "first-line",
+      "experience",
+      "complex"
+    ]
+  },
+  {
+    "id": "JP191",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.94,
+    "ai_reasoning": [
+      "qualifications:at",
+      "multi-taskexcellent",
+      "dependable",
+      "routing",
+      "assigned"
+    ]
+  },
+  {
+    "id": "JP192",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.86,
+    "ai_reasoning": [
+      "technology",
+      "services",
+      "installing",
+      "copywriters",
+      "following"
+    ]
+  },
+  {
+    "id": "JP193",
+    "ai_prediction": "real",
+    "ai_confidence": 0.96,
+    "ai_reasoning": [
+      "business",
+      "motivated",
+      "organised",
+      "fantastic",
+      "emails-other"
+    ]
+  },
+  {
+    "id": "JP194",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.93,
+    "ai_reasoning": [
+      "employeesare",
+      "yourcareer.senior",
+      "401(k",
+      "regions",
+      "manages"
+    ]
+  },
+  {
+    "id": "JP195",
+    "ai_prediction": "real",
+    "ai_confidence": 0.96,
+    "ai_reasoning": [
+      "experiencemust",
+      "solution",
+      "knowledge",
+      "openings",
+      "value-based"
+    ]
+  },
+  {
+    "id": "JP196",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.86,
+    "ai_reasoning": [
+      "mechanical",
+      "experience",
+      "services",
+      "certifying",
+      "efficiencies;\u2022"
+    ]
+  },
+  {
+    "id": "JP197",
+    "ai_prediction": "real",
+    "ai_confidence": 0.98,
+    "ai_reasoning": [
+      "proficiency",
+      "extrovert",
+      "execute",
+      "members",
+      "strategies"
+    ]
+  },
+  {
+    "id": "JP198",
+    "ai_prediction": "real",
+    "ai_confidence": 0.96,
+    "ai_reasoning": [
+      "payments",
+      "finance",
+      "skillsmust",
+      "writingproficient",
+      "minimum"
+    ]
+  },
+  {
+    "id": "JP199",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.97,
+    "ai_reasoning": [
+      "conceptual",
+      "business",
+      "skillsexcellent",
+      "membersdemonstrated",
+      "analytical"
+    ]
+  },
+  {
+    "id": "JP200",
+    "ai_prediction": "fake",
+    "ai_confidence": 0.88,
+    "ai_reasoning": [
+      "assistant/",
+      "microsoft",
+      "computer",
+      "smooth",
+      "current"
+    ]
+  }
+]

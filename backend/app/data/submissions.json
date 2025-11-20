@@ -1,0 +1,167 @@
+[
+  {
+    "worker_id": "W3531",
+    "posting_id": "JP155",
+    "condition": "baseline",
+    "worker_label": "fake",
+    "worker_confidence": 5,
+    "time_on_trial_ms": 2546,
+    "ai_prediction": null,
+    "ai_confidence": null,
+    "submission_id": "e6ef3e4b-d8ed-48e4-9838-89af8492c744"
+  },
+  {
+    "worker_id": "W3531",
+    "posting_id": "JP053",
+    "condition": "baseline",
+    "worker_label": "real",
+    "worker_confidence": 9,
+    "time_on_trial_ms": 4134,
+    "ai_prediction": null,
+    "ai_confidence": null,
+    "submission_id": "d56a50ea-22cf-461d-b68d-6a3805bf7555"
+  },
+  {
+    "worker_id": "W3531",
+    "posting_id": "JP105",
+    "condition": "baseline",
+    "worker_label": "real",
+    "worker_confidence": 10,
+    "time_on_trial_ms": 2577,
+    "ai_prediction": null,
+    "ai_confidence": null,
+    "submission_id": "8a443b42-0be7-4f31-8f7f-937e7d7a4fdd"
+  },
+  {
+    "worker_id": "W3531",
+    "posting_id": "JP043",
+    "condition": "baseline",
+    "worker_label": "real",
+    "worker_confidence": 10,
+    "time_on_trial_ms": 2294,
+    "ai_prediction": null,
+    "ai_confidence": null,
+    "submission_id": "c39c8348-41dc-4fd8-8108-5f6a13b3756a"
+  },
+  {
+    "worker_id": "W3531",
+    "posting_id": "JP176",
+    "condition": "baseline",
+    "worker_label": "fake",
+    "worker_confidence": 1,
+    "time_on_trial_ms": 1864,
+    "ai_prediction": null,
+    "ai_confidence": null,
+    "submission_id": "13f9efdc-42ca-43f1-92e2-7f79b8f69b05"
+  },
+  {
+    "worker_id": "W3531",
+    "posting_id": "JP134",
+    "condition": "baseline",
+    "worker_label": "fake",
+    "worker_confidence": 1,
+    "time_on_trial_ms": 2701,
+    "ai_prediction": null,
+    "ai_confidence": null,
+    "submission_id": "98c6c2b5-fcbc-46fe-a2d8-a7b76ad48f08"
+  },
+  {
+    "worker_id": "W3531",
+    "posting_id": "JP073",
+    "condition": "baseline",
+    "worker_label": "fake",
+    "worker_confidence": 2,
+    "time_on_trial_ms": 4141,
+    "ai_prediction": null,
+    "ai_confidence": null,
+    "submission_id": "942bd830-bdb8-490a-b45f-46d8f7262189"
+  },
+  {
+    "worker_id": "W3531",
+    "posting_id": "JP138",
+    "condition": "baseline",
+    "worker_label": "fake",
+    "worker_confidence": 10,
+    "time_on_trial_ms": 4078,
+    "ai_prediction": null,
+    "ai_confidence": null,
+    "submission_id": "c192e76f-fc79-4302-b6bc-157ff9475798"
+  },
+  {
+    "worker_id": "W3531",
+    "posting_id": "JP199",
+    "condition": "baseline",
+    "worker_label": "fake",
+    "worker_confidence": 1,
+    "time_on_trial_ms": 1729,
+    "ai_prediction": null,
+    "ai_confidence": null,
+    "submission_id": "2f6bf6e0-d287-44a8-a022-4e09130060d5"
+  },
+  {
+    "worker_id": "W3531",
+    "posting_id": "JP070",
+    "condition": "baseline",
+    "worker_label": "real",
+    "worker_confidence": 10,
+    "time_on_trial_ms": 5617,
+    "ai_prediction": null,
+    "ai_confidence": null,
+    "submission_id": "725919e0-002c-498c-8afa-ac8bd1326c6d"
+  },
+  {
+    "worker_id": "W6992",
+    "posting_id": "JP110",
+    "condition": "ai",
+    "worker_label": "fake",
+    "worker_confidence": 8,
+    "time_on_trial_ms": 55781,
+    "ai_prediction": 0.0,
+    "ai_confidence": 0.88,
+    "submission_id": "8f4304f1-4f61-4337-9225-04cc866fe22b"
+  },
+  {
+    "worker_id": "W6992",
+    "posting_id": "JP108",
+    "condition": "ai",
+    "worker_label": "real",
+    "worker_confidence": 9,
+    "time_on_trial_ms": 17265,
+    "ai_prediction": 1.0,
+    "ai_confidence": 0.87,
+    "submission_id": "4ab435c6-c2cc-4ab2-981c-1621cc7107c2"
+  },
+  {
+    "worker_id": "W6992",
+    "posting_id": "JP137",
+    "condition": "ai",
+    "worker_label": "fake",
+    "worker_confidence": 5,
+    "time_on_trial_ms": 8717,
+    "ai_prediction": 1.0,
+    "ai_confidence": 0.97,
+    "submission_id": "3ad00a9f-2b94-42a0-9405-81cb6925fc47"
+  },
+  {
+    "worker_id": "W6992",
+    "posting_id": "JP083",
+    "condition": "ai",
+    "worker_label": "fake",
+    "worker_confidence": 5,
+    "time_on_trial_ms": 2527,
+    "ai_prediction": 1.0,
+    "ai_confidence": 0.98,
+    "submission_id": "f797915a-5dbe-45b8-8fae-84b32032ecbd"
+  },
+  {
+    "worker_id": "W8841",
+    "posting_id": "JP126",
+    "condition": "baseline",
+    "worker_label": "fake",
+    "worker_confidence": 5,
+    "time_on_trial_ms": 2154,
+    "ai_prediction": null,
+    "ai_confidence": null,
+    "submission_id": "84bd5fb1-954c-4bf7-9098-0fdf1035b365"
+  }
+]

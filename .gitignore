@@ -1,0 +1,20 @@
+# Python virtual environments
+venv/
+backend/venv/
+.env/
+__pycache__/
+*.pyc
+
+# Model files
+*.h5
+*.keras
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# OS junk files
+.DS_Store
+
+backend/venv/
