@@ -77,7 +77,6 @@ export default function Task() {
     <div style={{ maxWidth: 900, margin: "0 auto", padding: 20 }}>
       <ProgressBar total={trials.length} index={current} />
 
-      <h2>{posting.title}</h2>
       <JobCard posting={posting} />
 
       {condition === "ai" && (
