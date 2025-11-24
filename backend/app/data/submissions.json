@@ -163,5 +163,115 @@
     "ai_prediction": null,
     "ai_confidence": null,
     "submission_id": "84bd5fb1-954c-4bf7-9098-0fdf1035b365"
+  },
+  {
+    "worker_id": "W5714",
+    "posting_id": "JP187",
+    "condition": "ai",
+    "worker_label": "fake",
+    "worker_confidence": 7,
+    "time_on_trial_ms": 7002,
+    "ai_prediction": 1.0,
+    "ai_confidence": 0.9,
+    "submission_id": "edd3ccdb-5050-472b-a3f1-3b07e1d7aa28"
+  },
+  {
+    "worker_id": "W5714",
+    "posting_id": "JP069",
+    "condition": "ai",
+    "worker_label": "fake",
+    "worker_confidence": 5,
+    "time_on_trial_ms": 5740,
+    "ai_prediction": 1.0,
+    "ai_confidence": 0.95,
+    "submission_id": "df1418b9-972f-4df0-ba26-635e68e9c70d"
+  },
+  {
+    "worker_id": "W5714",
+    "posting_id": "JP039",
+    "condition": "ai",
+    "worker_label": "fake",
+    "worker_confidence": 5,
+    "time_on_trial_ms": 63188,
+    "ai_prediction": 0.0,
+    "ai_confidence": 0.86,
+    "submission_id": "918e9a30-259b-433f-9659-45dc8fbd1714"
+  },
+  {
+    "worker_id": "W5714",
+    "posting_id": "JP042",
+    "condition": "ai",
+    "worker_label": "fake",
+    "worker_confidence": 5,
+    "time_on_trial_ms": 1286,
+    "ai_prediction": 0.0,
+    "ai_confidence": 0.86,
+    "submission_id": "65b2be26-2605-4f31-bb72-e81e32492437"
+  },
+  {
+    "worker_id": "W5714",
+    "posting_id": "JP044",
+    "condition": "ai",
+    "worker_label": "fake",
+    "worker_confidence": 5,
+    "time_on_trial_ms": 1071,
+    "ai_prediction": 1.0,
+    "ai_confidence": 0.98,
+    "submission_id": "68cab73e-40e0-4515-b74f-1c56fde68b3a"
+  },
+  {
+    "worker_id": "W5714",
+    "posting_id": "JP190",
+    "condition": "ai",
+    "worker_label": "fake",
+    "worker_confidence": 5,
+    "time_on_trial_ms": 923,
+    "ai_prediction": 1.0,
+    "ai_confidence": 0.9,
+    "submission_id": "b9e0036e-7b70-4993-a9da-d1429605b622"
+  },
+  {
+    "worker_id": "W5714",
+    "posting_id": "JP027",
+    "condition": "ai",
+    "worker_label": "fake",
+    "worker_confidence": 5,
+    "time_on_trial_ms": 2388,
+    "ai_prediction": 1.0,
+    "ai_confidence": 0.89,
+    "submission_id": "f781350f-4851-4959-866c-81e2d0861bc0"
+  },
+  {
+    "worker_id": "W5714",
+    "posting_id": "JP134",
+    "condition": "ai",
+    "worker_label": "fake",
+    "worker_confidence": 5,
+    "time_on_trial_ms": 1001,
+    "ai_prediction": 0.0,
+    "ai_confidence": 0.99,
+    "submission_id": "4e08c6f1-cc03-4e63-955f-b6cfdf642f76"
+  },
+  {
+    "worker_id": "W5714",
+    "posting_id": "JP196",
+    "condition": "ai",
+    "worker_label": "fake",
+    "worker_confidence": 5,
+    "time_on_trial_ms": 2375,
+    "ai_prediction": 0.0,
+    "ai_confidence": 0.86,
+    "submission_id": "73c0f37b-a384-4d3a-9c6e-d21dbe154c7b"
+  },
+  {
+    "worker_id": "W5714",
+    "posting_id": "JP022",
+    "condition": "ai",
+    "worker_label": "fake",
+    "worker_confidence": 5,
+    "time_on_trial_ms": 1989,
+    "ai_prediction": 1.0,
+    "ai_confidence": 0.93,
+    "submission_id": "3b604d65-aaa8-4aff-8c13-3fdc71e1b510"
   }
 ]
