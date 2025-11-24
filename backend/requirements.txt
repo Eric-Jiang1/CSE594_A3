@@ -1,8 +1,6 @@
 fastapi
-uvicorn
-pydantic
-scikit-learn
-numpy
+uvicorn[standard]
 pandas
-joblib
-tensorflow
+numpy
+scikit-learn
+lightgbm
